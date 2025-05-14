@@ -96,11 +96,11 @@
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Miguelnetoo&layout=compact&theme=onedark" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Miguelnetoo&layout=compact&theme=tokyonight" />
   
-  <img src="https://streak-stats.demolab.com?user=Miguelnetoo&theme=onedark" />
+  <img src="https://streak-stats.demolab.com?user=Miguelnetoo&theme=tokyonight" />
   
-  <img src="https://github-profile-trophy.vercel.app/?username=Miguelnetoo&theme=onedark" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Miguelnetoo&theme=tokyonight" />
   
 
 

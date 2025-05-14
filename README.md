@@ -1,6 +1,8 @@
-## 👨🏽‍💻 Olá! Eu sou Miguelnetoo 👋
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=60&section=header"/>
 
-✨ Sou **Miguel Luiz**, profissional em início de carreira na área de **Tecnologia**, formado em **Análise e Desenvolvimento de Sistemas** pela **UNIT-PE** e integrante do programa **Embarque Digital** do **Porto Digital**.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=30&center=true&vCenter=true&width=1000&lines=👨🏽‍💻Olá!,+Eu+Sou+Miguelnetoo;Eu+sou+de+Recife,+Pernambuco+081)](https://git.io/typing-svg)
+
+✨ Sou **Miguel neto**, profissional em início de carreira na área de **Tecnologia**, formado em **Análise e Desenvolvimento de Sistemas** pela **UNIT-PE** e integrante do programa **Embarque Digital** do **Porto Digital**.
 
 💻 Tenho experiência em **desenvolvimento front-end** com **React**, além de atuação em plataformas como **ServiceNow** e **Salesforce**. Também participei de projetos voltados à **integração de dados** e **automação de processos**, sempre com foco em soluções práticas e eficientes.
 
@@ -94,14 +96,14 @@
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Miguelnetoo&layout=compact&theme=dracula" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Miguelnetoo&layout=compact&theme=onedark" />
   
-  <img src="https://streak-stats.demolab.com?user=Miguelnetoo&theme=dracula" />
+  <img src="https://streak-stats.demolab.com?user=Miguelnetoo&theme=onedark" />
   
-  <img src="https://github-profile-trophy.vercel.app/?username=Miguelnetoo&theme=dracula" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Miguelnetoo&theme=onedark" />
   
 
 
 </div>
 
----
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=60&section=footer"/>

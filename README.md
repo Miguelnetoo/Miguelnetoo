@@ -101,7 +101,6 @@
   
   <img src="https://github-profile-trophy.vercel.app/?username=Miguelnetoo&theme=dracula" />
   
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Miguelnetoo&theme=dracula" />
 
 
 </div>
